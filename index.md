@@ -5,7 +5,7 @@ list_title: Project's news
 
 Welcome to Beremiz project's homepage.
 
-Beremiz is [Free Software](https://en.wikipedia.org/wiki/Free_software) for machine automation. It is the [Open PLC project](beremiz.org) since 2006.
+Beremiz is [Free Software](https://en.wikipedia.org/wiki/Free_software) for machine automation. It is the [Open PLC project](https://beremiz.org) since 2006.
 
 It conforms to [IEC-61131](https://en.wikipedia.org/wiki/IEC_61131-3) and [PLCopen](https://plcopen.org/) among other [standards](doc#standards).
 
